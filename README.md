@@ -8,10 +8,10 @@ A customer receives 2 points for every dollar spent over $100 in each transactio
 
 Given a record of every transaction during a three month period, calculate the reward points earned for each customer per month and total.
 
-Make up a data set to best demonstrate the solution
+>Make up a data set to best demonstrate the solution
 Check solution into GitHub
-
 Instructions for running the project on a local machine:
-$ git clone 
+
+$ git clone : https://github.com/harris494/SolutionforTest.git
 
 $ mvn spring-boot: run
